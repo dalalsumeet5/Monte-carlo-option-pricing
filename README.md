@@ -5,7 +5,7 @@ Features
 - Simulates thousands of stock price paths  
 - Calculates option payoffs and discounts to present value  
 - Visualizes simulated stock price trajectories
--  
+   
 Concepts Covered 
 - Monte Carlo Simulations  
 - Stochastic Processes  
